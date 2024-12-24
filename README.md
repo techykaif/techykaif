@@ -12,10 +12,10 @@
     <a href="https://codepen.io/techykaif" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="techykaif" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb/" target="blank"><img align="justify"
+    <a href="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb/" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb" height="30" width="40" /></a>
-    <a href="https://instagram.com/_hunter_of_games_" target="blank"><img align="justify"
+    <a href="https://instagram.com/_hunter_of_games_" target="blank"><img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="_hunter_of_games_" height="30" width="40" /></a>
 </p>
