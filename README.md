@@ -4,7 +4,7 @@
         src="https://komarev.com/ghpvc/?username=techykaif&label=Profile%20views&color=0e75b6&style=flat"
         alt="techykaif" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=techykaif&margin-w=15&margin-h=15&theme=algolia"
+            src="https://github-profile-trophy.vercel.app/?username=techykaif&margin-w=15&margin-h=15&theme=radical"
             alt="techykaif" /></a> </p>
 <p align="center">- 📫 How to reach me **mka10171@gmail.com**</p>
 <h3 align="center">Connect with me:</h3>
