@@ -5,7 +5,7 @@
         alt="techykaif" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=techykaif" alt="techykaif" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=techykaif&no-bg=true" alt="techykaif" /></a> </p>
 
 <p align="center">- 📫 How to reach me **mka10171@gmail.com**</p>
 
