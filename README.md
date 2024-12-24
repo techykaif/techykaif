@@ -41,7 +41,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
     </a>
-
     <h3>Web Development</h3>
     <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -55,7 +54,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
     </a>
-
     <h3>Database</h3>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -65,7 +63,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
             width="40" height="40" />
     </a>
-
     <h3>Technologies</h3>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -79,7 +76,6 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
 </div>
-
     <h3 align="center">Support:</h3>
     <p align="center"><a href="https://www.buymeacoffee.com/mokaifansa7"> <img align="center"
                 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
