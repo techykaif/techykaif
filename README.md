@@ -9,7 +9,7 @@
 <p align="center">- 📫 How to reach me **mka10171@gmail.com**</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://codepen.io/techykaif" target="blank"><img align="left"
+    <a href="https://codepen.io/techykaif" target="blank"><img align="justify"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="techykaif" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb/" target="blank"><img align="center"
