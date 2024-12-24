@@ -19,7 +19,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="_hunter_of_games_" height="30" width="40" /></a>
 </p>
-<h3 align="center>Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <h3>Programming Languages</h3> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
