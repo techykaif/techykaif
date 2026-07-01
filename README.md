@@ -1,133 +1,152 @@
 <p align="center">
+  <img src="./assets/banner.svg" alt="Banner" width="100%">
+</p>
 
-<img src="./assets/banner.svg" width="100%" alt="Mohd Kaif Ansari"/>
+<br>
+
+<p align="center">
+  <img src="./assets/profile.png" width="170" style="border-radius:50%">
+</p>
+
+<h1 align="center">Mohd Kaif Ansari</h1>
+
+<p align="center">
+
+AI Engineer • Full Stack Developer
 
 </p>
 
-# Mohd Kaif Ansari
+<p align="center">
 
-**AI Engineer · Full Stack Developer**
+Building software powered by artificial intelligence, automation, and thoughtful engineering.
 
-I build AI-powered applications, automation systems, and modern web products that focus on solving practical problems through thoughtful engineering.
-
-My work primarily involves React Native, Next.js, Python, Supabase, cloud technologies, and large language models. I enjoy building products from the initial idea through production deployment, with an emphasis on clean architecture, performance, and user experience.
+</p>
 
 ---
 
-## Current Work
+## About
 
-I'm currently focused on three long-term projects.
+I'm a software engineer focused on building products that solve practical problems through modern web technologies and artificial intelligence.
 
-| Project | Description |
-|---------|-------------|
-| **IngRyn** | AI-powered ingredient scanner using OCR, Gemini, React Native and Supabase. |
-| **AutoBrief AI** | Automated AI news platform with intelligent content generation and publishing. |
-| **Portfolio** | Modern portfolio focused on clean design and showcasing engineering work. |
+Over the past few years I've worked on mobile applications, AI-powered automation platforms, full-stack web applications, and developer tooling.
 
-## Technical Expertise
+I enjoy designing systems that are simple, maintainable, and scalable.
 
-### Languages
+---
 
-Python • TypeScript • JavaScript • Java • C++ • SQL
-
-### Frontend
-
-React • Next.js • React Native • Tailwind CSS
-
-### Backend
-
-Node.js • Express • Supabase • Firebase • REST APIs
-
-### Artificial Intelligence
-
-Google Gemini • OpenAI • OCR • Prompt Engineering • AI Workflows
-
-### Cloud & Tools
-
-AWS • Docker • Git • GitHub Actions • Linux
-
-## Selected Projects
+## Featured Work
 
 ### IngRyn
 
-An AI-powered mobile application that helps users understand food ingredients through optical character recognition and generative AI.
+<p align="center">
+<img src="./assets/projects/ingryn.png" width="340">
+</p>
+
+An AI-powered ingredient scanner that combines OCR and large language models to help users better understand packaged food ingredients.
 
 **Highlights**
 
-- Cross-platform mobile application
-- OCR-powered scanning
+- React Native application
+- OCR integration
 - AI ingredient analysis
-- Secure Supabase backend
-- Clean mobile-first interface
+- Authentication with Supabase
+- Mobile-first design
 
-**Technology**
+Repository
 
-React Native · Expo · TypeScript · Supabase · Gemini AI
+https://github.com/techykaif/ingryn
 
 ---
 
 ### AutoBrief AI
 
-An automated publishing platform that collects news from multiple sources, processes content with AI, and generates SEO-ready articles.
+<p align="center">
+<img src="./assets/projects/autobrief.png" width="700">
+</p>
+
+An automated publishing platform that collects news, processes content with AI, and generates SEO-ready articles.
 
 **Highlights**
 
-- Automated RSS ingestion
-- AI-assisted article generation
-- Google Sheets integration
-- SEO optimization
-- Production-ready Next.js application
+- Automated RSS pipeline
+- AI-generated articles
+- Search
+- Categories
+- Modern Next.js architecture
 
-**Technology**
+Live
 
-Next.js · TypeScript · Node.js · Gemini AI
+https://autobrief-ai.vercel.app
 
 ---
 
 ### Portfolio
 
-A modern developer portfolio built around thoughtful design, performance, and accessibility.
-
-**Technology**
-
-Next.js · React · Tailwind CSS
-
-## GitHub Analytics
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&theme=github_dark&hide_border=true&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=github_dark&hide_border=true"/>
-
+<img src="./assets/projects/portfolio.png" width="700">
 </p>
 
-<p align="center">
+A modern portfolio designed around simplicity, performance, and accessibility.
 
-<img src="https://streak-stats.demolab.com?user=techykaif&theme=github-dark&hide_border=true"/>
+Live
 
-</p>
-
-## Open Source
-
-I enjoy building software in the open and collaborating on projects related to artificial intelligence, developer tooling, automation, and modern web technologies.
-
-I'm always interested in thoughtful engineering discussions, collaboration opportunities, and projects that solve practical problems.
-
-## Contact
-
-Portfolio  
 https://techykaif.vercel.app
 
-LinkedIn  
+---
+
+## Technology
+
+| Area | Technologies |
+|------|--------------|
+| Languages | Python, TypeScript, JavaScript, Java, SQL |
+| Frontend | React, Next.js, React Native, Tailwind CSS |
+| Backend | Node.js, Express, Supabase, Firebase |
+| AI | Gemini API, OpenAI API, OCR, Prompt Engineering |
+| Infrastructure | AWS, Docker, Git, GitHub Actions, Linux |
+
+---
+
+## GitHub
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&theme=github_dark&show_icons=true&hide_border=true">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=github_dark&hide_border=true">
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=techykaif&theme=github-dark&hide_border=true">
+
+</p>
+
+---
+
+## Currently Working On
+
+- IngRyn
+- AutoBrief AI
+- Personal Portfolio
+- AI-powered developer tools
+
+---
+
+## Connect
+
+Portfolio
+
+https://techykaif.vercel.app
+
+LinkedIn
+
 https://linkedin.com/in/mohd-kaif-ansari-0754522bb
 
-GitHub  
-https://github.com/techykaif
+Email
 
-Email  
 mka10171@gmail.com
 
 ---
 
-*"Building software that solves practical problems through artificial intelligence and automation."*
+> Building software that solves practical problems through artificial intelligence and automation.
