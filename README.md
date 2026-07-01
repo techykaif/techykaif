@@ -186,7 +186,7 @@ Modern developer portfolio showcasing projects, skills and experience.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://techykaif.netlify.app">
+<a href="https://techykaif.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
