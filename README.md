@@ -83,7 +83,7 @@ https://autobrief-ai.vercel.app
 ### Portfolio
 
 <p align="center">
-<img src="./assets/projects/portfolio.png" width="700">
+<img src="assets/projects/portfolio.png" width="700">
 </p>
 
 A modern portfolio designed around simplicity, performance, and accessibility.
