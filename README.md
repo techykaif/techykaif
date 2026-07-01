@@ -5,9 +5,8 @@
 <br>
 
 <p align="center">
-  <img src="./assets/profile.png" width="170" style="border-radius:50%">
+<img src="https://github.com/techykaif.png" width="170">
 </p>
-
 <h1 align="center">Mohd Kaif Ansari</h1>
 
 <p align="center">
