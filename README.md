@@ -1,201 +1,133 @@
-<h1 align="center">
-Hi 👋 I'm Mohd Kaif Ansari
-</h1>
-
-<h3 align="center">
-AI Engineer • Full Stack Developer • Automation Builder
-</h3>
-
-<p align="center">
-Building AI-powered products, automation systems and modern web applications.
-</p>
-
 <p align="center">
 
-<a href="https://github.com/techykaif">
-<img src="https://komarev.com/ghpvc/?username=techykaif&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/techykaif?tab=followers">
-<img src="https://img.shields.io/github/followers/techykaif?style=for-the-badge"/>
-
-</a>
-
-<a href="https://github.com/techykaif">
-<img src="https://img.shields.io/github/stars/techykaif?affiliations=OWNER&style=for-the-badge"/>
-
-</a>
+<img src="./assets/banner.svg" width="100%" alt="Mohd Kaif Ansari"/>
 
 </p>
 
----
+# Mohd Kaif Ansari
 
-# 🚀 About Me
+**AI Engineer · Full Stack Developer**
 
-- 🔭 Currently building **IngRyn** – AI-powered Ingredient Scanner
-- 📰 Building **AutoBrief AI** – Automated AI News Platform
-- 🌐 Creating modern full-stack SaaS applications
-- 🤖 Passionate about AI Automation & Intelligent Systems
-- 📱 Building cross-platform mobile apps using React Native
-- ☁️ Exploring AWS, Supabase, Edge Functions & Serverless
-- 💡 Love solving real-world problems using AI
+I build AI-powered applications, automation systems, and modern web products that focus on solving practical problems through thoughtful engineering.
+
+My work primarily involves React Native, Next.js, Python, Supabase, cloud technologies, and large language models. I enjoy building products from the initial idea through production deployment, with an emphasis on clean architecture, performance, and user experience.
 
 ---
 
-# 🛠 Tech Stack
+## Current Work
+
+I'm currently focused on three long-term projects.
+
+| Project | Description |
+|---------|-------------|
+| **IngRyn** | AI-powered ingredient scanner using OCR, Gemini, React Native and Supabase. |
+| **AutoBrief AI** | Automated AI news platform with intelligent content generation and publishing. |
+| **Portfolio** | Modern portfolio focused on clean design and showcasing engineering work. |
+
+## Technical Expertise
 
 ### Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp"/>
-
-</p>
+Python • TypeScript • JavaScript • Java • C++ • SQL
 
 ### Frontend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-</p>
+React • Next.js • React Native • Tailwind CSS
 
 ### Backend
 
-<p>
+Node.js • Express • Supabase • Firebase • REST APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
+### Artificial Intelligence
 
-</p>
+Google Gemini • OpenAI • OCR • Prompt Engineering • AI Workflows
 
-### Mobile
+### Cloud & Tools
 
-<p>
+AWS • Docker • Git • GitHub Actions • Linux
 
-<img src="https://skillicons.dev/icons?i=react"/>
+## Selected Projects
 
-Expo • React Native
+### IngRyn
 
-</p>
+An AI-powered mobile application that helps users understand food ingredients through optical character recognition and generative AI.
 
-### Database
+**Highlights**
 
-<p>
+- Cross-platform mobile application
+- OCR-powered scanning
+- AI ingredient analysis
+- Secure Supabase backend
+- Clean mobile-first interface
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+**Technology**
 
-</p>
-
-### Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
-
-</p>
-
-### AI Tools
-
-- Gemini API
-- OpenAI API
-- Claude
-- OCR
-- LangChain
-- Prompt Engineering
+React Native · Expo · TypeScript · Supabase · Gemini AI
 
 ---
 
-# 🌟 Featured Projects
+### AutoBrief AI
 
-## 🥗 IngRyn
+An automated publishing platform that collects news from multiple sources, processes content with AI, and generates SEO-ready articles.
 
-AI-powered Ingredient Scanner built using React Native, Expo, OCR and Gemini AI.
+**Highlights**
 
-**Features**
+- Automated RSS ingestion
+- AI-assisted article generation
+- Google Sheets integration
+- SEO optimization
+- Production-ready Next.js application
 
-- OCR Scanner
-- AI Ingredient Analysis
-- Health Insights
-- Food Safety Detection
-- Cross-platform Mobile App
+**Technology**
 
----
-
-## 📰 AutoBrief AI
-
-Fully automated AI News Platform that collects, processes and publishes news using AI.
-
-**Features**
-
-- AI Content Generation
-- Automated RSS Processing
-- SEO Optimization
-- Google Sheets Integration
-- Next.js
+Next.js · TypeScript · Node.js · Gemini AI
 
 ---
 
-## 💼 Personal Portfolio
+### Portfolio
 
-Modern developer portfolio showcasing projects, skills and experience.
+A modern developer portfolio built around thoughtful design, performance, and accessibility.
 
----
+**Technology**
 
-# 📈 GitHub Analytics
+Next.js · React · Tailwind CSS
+
+## GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&theme=github_dark&hide_border=true&show_icons=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=techykaif&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=techykaif&theme=github-dark&hide_border=true"/>
 
 </p>
 
----
+## Open Source
 
-# 🏆 GitHub Trophies
+I enjoy building software in the open and collaborating on projects related to artificial intelligence, developer tooling, automation, and modern web technologies.
 
-<p align="center">
+I'm always interested in thoughtful engineering discussions, collaboration opportunities, and projects that solve practical problems.
 
-<img src="https://github-profile-trophy.vercel.app/?username=techykaif&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+## Contact
 
-</p>
+Portfolio  
+https://techykaif.vercel.app
 
----
+LinkedIn  
+https://linkedin.com/in/mohd-kaif-ansari-0754522bb
 
-# 📫 Connect With Me
+GitHub  
+https://github.com/techykaif
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/techykaif">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:mka10171@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://techykaif.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+Email  
+mka10171@gmail.com
 
 ---
 
-# 💬 Quote
-
-> *"Building intelligent software that solves real-world problems through AI and automation."*
-
-⭐ If you like my work, consider giving a star to my repositories!
+*"Building software that solves practical problems through artificial intelligence and automation."*
