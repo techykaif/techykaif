@@ -1,96 +1,201 @@
-<h1 align="center">Hi 👋, I'm Mohd Kaif Ansari</h1>
-<h3 align="center">A passionate developer in Computer Science</h3>
-<p align="center"> <img
-        src="https://komarev.com/ghpvc/?username=techykaif&label=Profile%20views&color=0e75b6&style=flat"
-        alt="techykaif" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=techykaif&margin-w=15&margin-h=15&theme=radical"
-            alt="techykaif" /></a> </p>
-<p align="center">- 📫 How to reach me **mka10171@gmail.com**</p>
-<h3 align="center">Connect with me:</h3>
+<h1 align="center">
+Hi 👋 I'm Mohd Kaif Ansari
+</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Automation Builder
+</h3>
+
 <p align="center">
-    <a href="https://codepen.io/techykaif" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="techykaif" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb/" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb" height="30" width="40" /></a>
-    <a href="https://instagram.com/_hunter_of_games_" target="blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="_hunter_of_games_" height="30" width="40" /></a>
-</p><h3 align="center">Languages and Tools:</h3>
-<div align="center">
-    <h3>Programming Languages</h3>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" />
-    </a>
-    <h3>Web Development</h3>
-    <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" />
-    </a>
-    <h3>Database</h3>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle"
-            width="40" height="40" />
-    </a>
-    <h3>Technologies</h3>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-            width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-</div>
-    <h3 align="center">Support:</h3>
-    <p align="center"><a href="https://www.buymeacoffee.com/mokaifansa7"> <img align="center"
-                src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-                alt="mokaifansa7" /></a></p><br><br>
-    <p align="center"><img align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs?username=techykaif&show_icons=true&theme=radical&title_color=0433ff&text_color=ff2600&bg_color=ffffff&locale=en&layout=compact"
-            alt="techykaif" /></p>
-    <p align="center">&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=true&locale=en"
-            alt="techykaif" />
-    </p>
-    <br>
-    <p align="center">&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=true&locale=en"
-            alt="techykaif" />
-    </p>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techykaif&"
-            alt="techykaif" /></p>
+Building AI-powered products, automation systems and modern web applications.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/techykaif">
+<img src="https://komarev.com/ghpvc/?username=techykaif&label=Profile%20Views&color=blue&style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/techykaif?tab=followers">
+<img src="https://img.shields.io/github/followers/techykaif?style=for-the-badge"/>
+
+</a>
+
+<a href="https://github.com/techykaif">
+<img src="https://img.shields.io/github/stars/techykaif?affiliations=OWNER&style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🚀 About Me
+
+- 🔭 Currently building **IngRyn** – AI-powered Ingredient Scanner
+- 📰 Building **AutoBrief AI** – Automated AI News Platform
+- 🌐 Creating modern full-stack SaaS applications
+- 🤖 Passionate about AI Automation & Intelligent Systems
+- 📱 Building cross-platform mobile apps using React Native
+- ☁️ Exploring AWS, Supabase, Edge Functions & Serverless
+- 💡 Love solving real-world problems using AI
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,c,cpp"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase"/>
+
+</p>
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+Expo • React Native
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode"/>
+
+</p>
+
+### AI Tools
+
+- Gemini API
+- OpenAI API
+- Claude
+- OCR
+- LangChain
+- Prompt Engineering
+
+---
+
+# 🌟 Featured Projects
+
+## 🥗 IngRyn
+
+AI-powered Ingredient Scanner built using React Native, Expo, OCR and Gemini AI.
+
+**Features**
+
+- OCR Scanner
+- AI Ingredient Analysis
+- Health Insights
+- Food Safety Detection
+- Cross-platform Mobile App
+
+---
+
+## 📰 AutoBrief AI
+
+Fully automated AI News Platform that collects, processes and publishes news using AI.
+
+**Features**
+
+- AI Content Generation
+- Automated RSS Processing
+- SEO Optimization
+- Google Sheets Integration
+- Next.js
+
+---
+
+## 💼 Personal Portfolio
+
+Modern developer portfolio showcasing projects, skills and experience.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=techykaif&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=techykaif&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohd-kaif-ansari-0754522bb">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/techykaif">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:mka10171@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://techykaif.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"Building intelligent software that solves real-world problems through AI and automation."*
+
+⭐ If you like my work, consider giving a star to my repositories!
