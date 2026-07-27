@@ -140,7 +140,7 @@ https://techykaif.vercel.app
 
 LinkedIn
 
-https://linkedin.com/in/mohd-kaif-ansari-0754522bb
+https://linkedin.com/in/mohd-kaif-ansari-dev
 
 Email
 
