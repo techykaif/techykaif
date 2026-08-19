@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">What I Build</title>
+<desc id="desc">Four animated capability cards covering AI systems, full-stack products, mobile experiences, and automation.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" x2="1">
+    <stop offset="0" stop-color="#58A6FF"/>
+    <stop offset="1" stop-color="#3FB950"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .title{font:700 34px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#F0F6FC}
+    .heading{font:700 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#F0F6FC}
+    .body{font:400 17px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#B8C1CC}
+    .label{font:600 12px 'SFMono-Regular',Consolas,monospace;fill:#8B949E;letter-spacing:2px}
+  </style>
+</defs>
+<rect width="1200" height="620" rx="18" fill="#0D1117"/>
+<text x="42" y="58" class="title">What I Build</text>
+<line x1="42" y1="82" x2="1158" y2="82" stroke="#30363D"/>
+
+<g>
+  <rect x="42" y="112" width="540" height="215" rx="12" fill="#111820" stroke="#30363D"/>
+  <rect x="42" y="112" width="540" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="x" values="42;300;42" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="70" y="155" class="label">01 / INTELLIGENCE</text>
+  <text x="70" y="196" class="heading">AI Systems</text>
+  <text x="70" y="232" class="body">LLM integrations, inference pipelines,</text>
+  <text x="70" y="258" class="body">OCR + AI workflows, and practical automation.</text>
+  <circle cx="532" cy="288" r="5" fill="#58A6FF" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.25;1;0.25" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g>
+  <rect x="618" y="112" width="540" height="215" rx="12" fill="#111820" stroke="#30363D"/>
+  <rect x="618" y="112" width="540" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="x" values="618;876;618" dur="5.7s" repeatCount="indefinite"/>
+  </rect>
+  <text x="646" y="155" class="label">02 / PRODUCT</text>
+  <text x="646" y="196" class="heading">Full-Stack Products</text>
+  <text x="646" y="232" class="body">Web applications, APIs, authentication,</text>
+  <text x="646" y="258" class="body">data flows, caching, SEO, and production architecture.</text>
+  <circle cx="1108" cy="288" r="5" fill="#3FB950" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g>
+  <rect x="42" y="353" width="540" height="215" rx="12" fill="#111820" stroke="#30363D"/>
+  <rect x="42" y="353" width="540" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="x" values="42;300;42" dur="6.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="70" y="396" class="label">03 / MOBILE</text>
+  <text x="70" y="437" class="heading">Mobile Experiences</text>
+  <text x="70" y="473" class="body">React Native apps with camera workflows,</text>
+  <text x="70" y="499" class="body">OCR, authentication, cloud storage, and AI.</text>
+  <circle cx="532" cy="540" r="5" fill="#58A6FF" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g>
+  <rect x="618" y="353" width="540" height="215" rx="12" fill="#111820" stroke="#30363D"/>
+  <rect x="618" y="353" width="540" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="x" values="618;876;618" dur="5.3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="646" y="396" class="label">04 / AUTOMATION</text>
+  <text x="646" y="437" class="heading">Automation</text>
+  <text x="646" y="473" class="body">Systems that collect, process, decide,</text>
+  <text x="646" y="499" class="body">and deliver results with minimal manual work.</text>
+  <circle cx="1108" cy="540" r="5" fill="#3FB950" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+</svg>
