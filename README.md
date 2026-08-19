@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Mohd Kaif Ansari — Software Engineer" />
+<img src="./assets/banner.svg" width="100%" alt="Mohd Kaif Ansari, Software Engineer" />
 
 <br />
 
@@ -18,7 +18,7 @@
 
 ## The short version
 
-> **I build AI-powered products that solve real problems — from idea to production.**
+> **I build AI-powered products that solve real problems, from idea to production.**
 
 I like building software where **AI is part of the product, not just a feature added at the end.** My work spans full-stack applications, mobile experiences, OCR pipelines, LLM integrations, REST APIs, automated publishing systems, and production deployment.
 
