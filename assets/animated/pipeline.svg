@@ -1,20 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Animated software engineering workflow shown as a macOS terminal">
-<defs>
-  <linearGradient id="glow" x1="0" x2="1"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#7ee787"/></linearGradient>
-</defs>
-<rect width="1000" height="300" rx="18" fill="#0d1117" stroke="#30363d"/>
-<rect x="1" y="1" width="998" height="42" rx="17" fill="#161b22"/>
-<circle cx="25" cy="22" r="6" fill="#ff5f57"/>
-<circle cx="45" cy="22" r="6" fill="#febc2e"/>
-<circle cx="65" cy="22" r="6" fill="#28c840"/>
-<text x="500" y="27" text-anchor="middle" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">kaif — zsh</text>
-<g font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="16">
-  <text x="35" y="78" fill="#7ee787">kaif@macbook</text><text x="155" y="78" fill="#8b949e"> ~ %</text><text x="190" y="78" fill="#f0f6fc"> ship</text>
-  <text x="35" y="112" fill="#58a6ff">→</text><text x="55" y="112" fill="#f0f6fc">01  idea</text><text x="210" y="112" fill="#8b949e">define the problem</text>
-  <text x="35" y="145" fill="#58a6ff">→</text><text x="55" y="145" fill="#f0f6fc">02  architect</text><text x="210" y="145" fill="#8b949e">design the system</text>
-  <text x="35" y="178" fill="#58a6ff">→</text><text x="55" y="178" fill="#f0f6fc">03  build</text><text x="210" y="178" fill="#8b949e">write the product</text>
-  <text x="35" y="211" fill="#58a6ff">→</text><text x="55" y="211" fill="#f0f6fc">04  ai</text><text x="210" y="211" fill="#8b949e">add intelligence where it matters</text>
-  <text x="35" y="244" fill="#58a6ff">→</text><text x="55" y="244" fill="#f0f6fc">05  automate</text><text x="210" y="244" fill="#8b949e">remove repetitive work</text>
-  <text x="35" y="277" fill="#7ee787">kaif@macbook</text><text x="155" y="277" fill="#8b949e"> ~ %</text><text x="190" y="277" fill="#f0f6fc"> ship --production</text><rect x="390" y="262" width="9" height="18" fill="url(#glow)"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Apple-style macOS terminal showing the engineering shipping process">
+<rect width="1000" height="360" rx="18" fill="#0d1117" stroke="#30363d"/>
+<rect width="1000" height="54" rx="18" fill="#161b22"/>
+<rect y="36" width="1000" height="18" fill="#161b22"/>
+<circle cx="28" cy="27" r="7" fill="#ff5f57"/><circle cx="52" cy="27" r="7" fill="#febc2e"/><circle cx="76" cy="27" r="7" fill="#28c840"/>
+<text x="500" y="33" text-anchor="middle" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display',sans-serif" font-size="14">kaif — zsh</text>
+<g font-family="SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="17">
+<text x="36" y="94" fill="#58a6ff">kaif@macbook ~ %</text><text x="205" y="94" fill="#f0f6fc">ship</text>
+<text x="36" y="133" fill="#8b949e">→ 01</text><text x="105" y="133" fill="#f0f6fc">idea</text><text x="255" y="133" fill="#8b949e">define the problem</text>
+<text x="36" y="170" fill="#8b949e">→ 02</text><text x="105" y="170" fill="#f0f6fc">architect</text><text x="255" y="170" fill="#8b949e">design the system</text>
+<text x="36" y="207" fill="#8b949e">→ 03</text><text x="105" y="207" fill="#f0f6fc">build</text><text x="255" y="207" fill="#8b949e">write the product</text>
+<text x="36" y="244" fill="#8b949e">→ 04</text><text x="105" y="244" fill="#f0f6fc">ai</text><text x="255" y="244" fill="#8b949e">add intelligence where it matters</text>
+<text x="36" y="281" fill="#8b949e">→ 05</text><text x="105" y="281" fill="#f0f6fc">automate</text><text x="255" y="281" fill="#8b949e">remove repetitive work</text>
+<text x="36" y="322" fill="#58a6ff">kaif@macbook ~ %</text><text x="205" y="322" fill="#f0f6fc">ship --production</text>
+<rect x="392" y="306" width="10" height="21" fill="#58a6ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </g>
 </svg>
