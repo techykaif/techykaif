@@ -1,145 +1,204 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Banner" width="100%">
-</p>
+<div align="center">
 
-<br>
+<img src="./assets/banner.svg" width="100%" alt="Mohd Kaif Ansari — Software Engineer" />
 
-<p align="center">
-<img src="https://github.com/techykaif.png" width="170">
-</p>
-<h1 align="center">Mohd Kaif Ansari</h1>
+<br />
 
-<p align="center">
+<a href="https://techykaif.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/techykaif"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/mohd-kaif-ansari-dev"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mka10171@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-AI Engineer • Full Stack Developer
+### Software Engineer · Full Stack & AI
 
-</p>
+**I build AI-powered products that solve real problems — from idea to production.**
 
-<p align="center">
+`AI Systems` · `Full Stack` · `Automation` · `Mobile` · `Developer Tools`
 
-Building software powered by artificial intelligence, automation, and thoughtful engineering.
-
-</p>
+</div>
 
 ---
 
-## About
+## ⚡ What I'm About
 
-I'm a software engineer focused on building products that solve practical problems through modern web technologies and artificial intelligence.
+I like building software where **AI is part of the product, not just a feature added at the end.**
 
-Over the past few years I've worked on mobile applications, AI-powered automation platforms, full-stack web applications, and developer tooling.
+My work spans full-stack applications, mobile experiences, OCR pipelines, LLM integrations, automated publishing systems, REST APIs, and production deployment. I care about turning messy real-world problems into systems that are simple to use and reliable behind the scenes.
 
-I enjoy designing systems that are simple, maintainable, and scalable.
-
----
-
-## Featured Work
-
-### IngRyn
-
-<p align="center">
-<img src="./assets/projects/ingryn.png" width="340">
-</p>
-
-An AI-powered ingredient scanner that combines OCR and large language models to help users better understand packaged food ingredients.
-
-**Highlights**
-
-- React Native application
-- OCR integration
-- AI ingredient analysis
-- Authentication with Supabase
-- Mobile-first design
-
-Repository
-
-https://github.com/techykaif/ingryn
+```text
+idea → architecture → implementation → AI integration → automation → deployment
+```
 
 ---
 
-### AutoBrief AI
+## 🧠 What I Build
 
-<p align="center">
-<img src="./assets/projects/autobrief.png" width="700">
-</p>
+<table>
+<tr>
+<td width="50%">
 
-An automated publishing platform that collects news, processes content with AI, and generates SEO-ready articles.
+### 🤖 AI-Powered Products
 
-**Highlights**
+LLM integrations, AI inference pipelines, OCR + AI workflows, prompt engineering, and practical automation.
 
-- Automated RSS pipeline
-- AI-generated articles
-- Search
-- Categories
-- Modern Next.js architecture
+</td>
+<td width="50%">
 
-Live
+### ⚙️ Full-Stack Systems
 
-https://autobrief-ai.vercel.app
+Modern web applications, REST APIs, authentication, data flows, caching, SEO, and production-ready frontend architecture.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### Portfolio
+### 📱 Mobile Experiences
 
-<p align="center">
-<img src="./assets/projects/portfolio.png" width="700">
-</p>
+React Native applications with camera workflows, OCR, authentication, cloud storage, and AI-powered analysis.
 
-A modern portfolio designed around simplicity, performance, and accessibility.
+</td>
+<td width="50%">
 
-Live
+### 🔁 Automation
 
-https://techykaif.vercel.app
+Systems that collect information, process it, make decisions, and publish or deliver results with minimal manual work.
 
----
-
-## Technology
-
-| Area | Technologies |
-|------|--------------|
-| Languages | Python, TypeScript, JavaScript, Java, SQL |
-| Frontend | React, Next.js, React Native, Tailwind CSS |
-| Backend | Node.js, Express, Supabase, Firebase |
-| AI | Gemini API, OpenAI API, OCR, Prompt Engineering |
-| Infrastructure | AWS, Docker, Git, GitHub Actions, Linux |
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
-<p align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=techykaif&theme=github_dark&show_icons=true&hide_border=true">
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=github_dark&hide_border=true">
-</p>
+# 🚀 Featured Builds
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=techykaif&theme=github-dark&hide_border=true">
-</p>
+## 🥗 IngRyn
 
----
+### AI-powered ingredient intelligence for packaged food
 
-## Currently Working On
+> **Camera → OCR → AI analysis → understandable results**
 
-- IngRyn
-- AutoBrief AI
-- Personal Portfolio
-- AI-powered developer tools
+IngRyn is a React Native application designed to analyze packaged food ingredients. It combines **Google ML Kit OCR** with the **Gemini API** to extract and analyze ingredient information, while Supabase handles authentication, storage, and scan history.
+
+**Built with**
+
+`React Native` `Expo` `Supabase` `Google ML Kit` `Gemini API`
+
+<a href="https://github.com/techykaif/ingryn">→ View the project</a>
 
 ---
 
-## Connect
+## 📰 AutoBrief AI
 
-Portfolio
+### An automated pipeline from raw news to published AI content
 
-https://techykaif.vercel.app
+```text
+RSS Sources
+     ↓
+Node.js Ingestion
+     ↓
+Normalize & Process
+     ↓
+LLM Generation
+     ↓
+Retry / Failover
+     ↓
+SEO Optimization
+     ↓
+GitHub Actions
+     ↓
+Published
+```
 
-LinkedIn
+AutoBrief is an AI-powered news aggregation and publishing platform. It automatically collects news, processes content with LLMs, and produces SEO-ready articles with automated publishing workflows.
 
-https://linkedin.com/in/mohd-kaif-ansari-dev
+The engineering focus includes **RSS ingestion, resilient AI workflows, API key rotation, retries, failover, server-side rendering, caching, SEO, and GitHub Actions automation.**
 
-Email
+**Built with**
 
-mka10171@gmail.com
+`Next.js` `Node.js` `Grok API` `GitHub Actions` `RSS` `SEO`
+
+<a href="https://github.com/techykaif/AutoBrief">→ Repository</a> · <a href="https://autobrief-ai.vercel.app">→ Live application</a>
 
 ---
 
-> Building software that solves practical problems through artificial intelligence and automation.
+## 🌐 Portfolio
+
+A personal engineering portfolio focused on presenting projects, capabilities, and work in a clean product-style experience.
+
+<a href="https://techykaif.vercel.app">→ Visit my portfolio</a>
+
+---
+
+# 🛠️ Engineering Stack
+
+<table>
+<tr><td><b>Languages</b></td><td>JavaScript · Python · HTML5 · CSS3 · C</td></tr>
+<tr><td><b>Frontend</b></td><td>React · Next.js · React Native · Expo · Bootstrap</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js · REST APIs · API Integration · Google Apps Script</td></tr>
+<tr><td><b>Data</b></td><td>Supabase · Firebase · MySQL</td></tr>
+<tr><td><b>AI</b></td><td>Gemini API · Grok API · Google ML Kit OCR · LLM Integration · Prompt Engineering</td></tr>
+<tr><td><b>Delivery</b></td><td>Git · GitHub · GitHub Actions · Vercel · Netlify · VS Code · Chrome DevTools</td></tr>
+</table>
+
+---
+
+# 🧩 How I Think About Engineering
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  01  Start with the problem, not the technology.       │
+│                                                         │
+│  02  Keep the architecture simple until complexity     │
+│      is actually justified.                             │
+│                                                         │
+│  03  Use AI where it creates measurable product value. │
+│                                                         │
+│  04  Automate repetitive work instead of repeating it. │
+│                                                         │
+│  05  Build for production, not just the demo.           │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🏆 Beyond the Code
+
+- **Club Captain — Web Development Club (2023–2024)** — mentored students in JavaScript, React, Git, and frontend development.
+- **1st Place — Machine Learning with Python UI Integration Project.**
+- Certifications in **IBM Cybersecurity Basics**, **HackerRank Python (Basic)**, and **Netcamp Android Development**.
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+<br />
+<img src="https://streak-stats.demolab.com?user=techykaif&theme=transparent&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+# 🔭 Currently Building
+
+**IngRyn** · **AutoBrief AI** · **AI-powered developer tools**
+
+I'm especially interested in the space where **AI, automation, and product engineering** overlap.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+<a href="https://techykaif.vercel.app"><b>Portfolio</b></a> · <a href="https://linkedin.com/in/mohd-kaif-ansari-dev"><b>LinkedIn</b></a> · <a href="mailto:mka10171@gmail.com"><b>Email</b></a>
+
+<br /><br />
+
+<sub>Building software that turns practical problems into working products.</sub>
+
+</div>
