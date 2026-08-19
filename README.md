@@ -138,18 +138,43 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 # Engineering Stack
 
-<table>
-<tr><td><b>Languages</b></td><td>JavaScript · Python · HTML5 · CSS3 · C</td></tr>
-<tr><td><b>Frontend</b></td><td>React · Next.js · React Native · Expo · Bootstrap</td></tr>
-<tr><td><b>Backend</b></td><td>Node.js · REST APIs · API Integration · Google Apps Script</td></tr>
-<tr><td><b>Data</b></td><td>Supabase · Firebase · MySQL</td></tr>
-<tr><td><b>AI</b></td><td>Gemini API · Grok API · Google ML Kit OCR · LLM Integration · Prompt Engineering</td></tr>
-<tr><td><b>Delivery</b></td><td>Git · GitHub · GitHub Actions · Vercel · Netlify · VS Code · Chrome DevTools</td></tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,c" alt="Languages: JavaScript, Python, HTML, CSS, C" />
+</p>
+
+<p align="center"><sub>LANGUAGES</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,bootstrap" alt="Frontend: React, Next.js, React Native, Expo, Bootstrap" />
+</p>
+
+<p align="center"><sub>FRONTEND</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,googleappsscript" alt="Backend: Node.js, Express, Google Apps Script" />
+</p>
+
+<p align="center"><sub>BACKEND & APIs</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql" alt="Data: Supabase, Firebase, MySQL" />
+</p>
+
+<p align="center"><sub>DATA</sub></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gemini,git,github,githubactions,vercel,netlify,vscode" alt="AI and delivery tools" />
+</p>
+
+<p align="center"><sub>AI · DELIVERY · TOOLING</sub></p>
 
 ---
 
 # Beyond the Code
+
+<p align="center">
+  <img src="./assets/animated/beyond-code.svg" width="100%" alt="Mentorship, achievement and certifications" />
+</p>
 
 - **Club Captain — Web Development Club (2023–2024)** — mentored students in JavaScript, React, Git, and frontend development.
 - **1st Place — Machine Learning with Python UI Integration Project.**
