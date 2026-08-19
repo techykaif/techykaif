@@ -139,34 +139,55 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 # Engineering Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,c" alt="Languages: JavaScript, Python, HTML, CSS, C" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" />
 </p>
-
-<p align="center"><sub>LANGUAGES</sub></p>
+<p align="center"><sub><b>LANGUAGES</b> · JavaScript · Python · HTML5 · CSS3 · C</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,bootstrap" alt="Frontend: React, Next.js, React Native, Expo, Bootstrap" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
-
-<p align="center"><sub>FRONTEND</sub></p>
+<p align="center"><sub><b>FRONTEND</b> · React · Next.js · React Native · Expo · Bootstrap</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,googleappsscript" alt="Backend: Node.js, Express, Google Apps Script" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" alt="Google Apps Script" />
 </p>
-
-<p align="center"><sub>BACKEND & APIs</sub></p>
+<p align="center"><sub><b>BACKEND & APIs</b> · Node.js · Express · Google Apps Script · REST APIs</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql" alt="Data: Supabase, Firebase, MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
-<p align="center"><sub>DATA</sub></p>
+<p align="center"><sub><b>DATA</b> · Supabase · Firebase · MySQL</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gemini,git,github,githubactions,vercel,netlify,vscode" alt="AI and delivery tools" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Google_ML_Kit_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit OCR" />
+  <img src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Integration" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=probot&logoColor=white" alt="Prompt Engineering" />
 </p>
+<p align="center"><sub><b>AI</b> · Gemini API · Google ML Kit OCR · LLM Integration · Prompt Engineering</sub></p>
 
-<p align="center"><sub>AI · DELIVERY · TOOLING</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome DevTools" />
+</p>
+<p align="center"><sub><b>DELIVERY & TOOLING</b> · Git · GitHub · GitHub Actions · Vercel · Netlify · VS Code · Chrome DevTools</sub></p>
 
 ---
 
