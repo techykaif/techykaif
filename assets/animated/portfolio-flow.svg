@@ -1,0 +1,7 @@
+<svg width="900" height="120" viewBox="0 0 900 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="120" rx="16" fill="#0D1117" stroke="#30363D"/>
+<g font-family="Arial, sans-serif" font-size="13" font-weight="600" text-anchor="middle">
+<g fill="#E6EDF3"><rect x="25" y="38" width="145" height="44" rx="10" fill="#161B22" stroke="#30363D"/><text x="97" y="65">PROJECTS</text><rect x="205" y="38" width="145" height="44" rx="10" fill="#161B22" stroke="#30363D"/><text x="277" y="65">ENGINEERING</text><rect x="385" y="38" width="145" height="44" rx="10" fill="#161B22" stroke="#30363D"/><text x="457" y="65">AI</text><rect x="565" y="38" width="145" height="44" rx="10" fill="#161B22" stroke="#30363D"/><text x="637" y="65">AUTOMATION</text><rect x="745" y="38" width="130" height="44" rx="10" fill="#161B22" stroke="#30363D"/><text x="810" y="65">SHIP</text></g>
+<circle cx="25" cy="60" r="4" fill="#58A6FF"><animate attributeName="cx" values="25;205;385;565;745;25" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.8;1" dur="1s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
