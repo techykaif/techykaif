@@ -2,9 +2,22 @@
 <title id="title">Beyond the Code</title><desc id="desc">Mentorship, achievement and certifications.</desc>
 <rect width="1100" height="220" rx="18" fill="#0d1117" stroke="#30363d"/>
 <g font-family="Arial, Helvetica, sans-serif">
-<g transform="translate(55 42)"><circle cx="34" cy="34" r="33" fill="#161b22" stroke="#58a6ff" stroke-width="2"/><path d="M20 27h28l-3 27H23zM18 27h32M25 20h18l4 7H21z" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round"/><text x="82" y="30" fill="#f0f6fc" font-size="21" font-weight="700">Mentorship</text><text x="82" y="57" fill="#8b949e" font-size="15">Web Development Club · Captain</text></g>
-<g transform="translate(390 42)"><circle cx="34" cy="34" r="33" fill="#161b22" stroke="#3fb950" stroke-width="2"/><path d="M34 14l6 12 13 2-9 9 2 13-12-6-12 6 2-13-9-9 13-2z" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linejoin="round"/><text x="82" y="30" fill="#f0f6fc" font-size="21" font-weight="700">Achievement</text><text x="82" y="57" fill="#8b949e" font-size="15">1st Place · ML + Python UI</text></g>
-<g transform="translate(735 42)"><circle cx="34" cy="34" r="33" fill="#161b22" stroke="#bc8cff" stroke-width="2"/><path d="M24 16h20l8 8v28H24zM44 16v10h8M29 40h18M29 48h14" fill="none" stroke="#bc8cff" stroke-width="2.5" stroke-linejoin="round"/><text x="82" y="30" fill="#f0f6fc" font-size="21" font-weight="700">Certifications</text><text x="82" y="57" fill="#8b949e" font-size="15">IBM · HackerRank · Netcamp</text></g>
+<g transform="translate(55 42)">
+<circle cx="34" cy="34" r="33" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+<circle cx="27" cy="28" r="7" fill="none" stroke="#58a6ff" stroke-width="2.5"/>
+<circle cx="43" cy="28" r="7" fill="none" stroke="#58a6ff" stroke-width="2.5"/>
+<path d="M16 51c1-9 6-14 11-14s10 5 11 14M34 51c1-9 6-14 11-14s10 5 11 14" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round"/>
+<text x="82" y="30" fill="#f0f6fc" font-size="21" font-weight="700">Mentorship</text><text x="82" y="57" fill="#8b949e" font-size="15">Web Development Club · Captain</text></g>
+<g transform="translate(390 42)">
+<circle cx="34" cy="34" r="33" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+<path d="M22 20h24v19c0 10-5 16-12 19-7-3-12-9-12-19z" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M18 22h8M42 22h8M28 58h12M34 38l3 5h6l-5 4 2 6-6-3-6 3 2-6-5-4h6z" fill="none" stroke="#3fb950" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="82" y="30" fill="#f0f6fc" font-size="21" font-weight="700">Achievement</text><text x="82" y="57" fill="#8b949e" font-size="15">1st Place · Machine Learning + Python UI</text></g>
+<g transform="translate(735 42)">
+<circle cx="34" cy="34" r="33" fill="#161b22" stroke="#bc8cff" stroke-width="2"/>
+<path d="M22 17h24v34H22zM46 17l8 8v26H46M27 27h13M27 35h13" fill="none" stroke="#bc8cff" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M28 51v10l6-4 6 4V51" fill="none" stroke="#bc8cff" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="82" y="30" fill="#f0f6fc" font-size="21" font-weight="700">Certifications</text><text x="82" y="57" fill="#8b949e" font-size="15">IBM · HackerRank · Netcamp</text></g>
 </g>
 <circle cx="42" cy="190" r="3" fill="#58a6ff"><animate attributeName="opacity" values=".25;1;.25" dur="2s" repeatCount="indefinite"/></circle>
 <path d="M55 190H1045" stroke="#21262d"/><text x="550" y="198" text-anchor="middle" fill="#484f58" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">BUILD · LEARN · SHARE · SHIP</text>
