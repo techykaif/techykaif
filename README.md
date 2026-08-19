@@ -34,40 +34,9 @@ problem → architecture → build → AI integration → automation → ship �
 
 ## What I Build
 
-<table>
-<tr>
-<td width="50%">
-
-### AI Systems
-
-LLM integrations, AI inference pipelines, OCR + AI workflows, prompt engineering, and practical AI automation.
-
-</td>
-<td width="50%">
-
-### Full-Stack Products
-
-Modern web applications, APIs, authentication, data flows, caching, SEO, and production-ready frontend architecture.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### Mobile Experiences
-
-React Native applications with camera workflows, OCR, authentication, cloud storage, and AI-powered analysis.
-
-</td>
-<td width="50%">
-
-### Automation
-
-Systems that collect information, process it, make decisions, and deliver results with minimal manual work.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/animated/capabilities.svg" width="100%" alt="Animated overview of AI systems, full-stack products, mobile experiences, and automation" />
+</p>
 
 ---
 
