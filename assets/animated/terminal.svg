@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-label="Animated developer terminal">
+<rect width="900" height="310" rx="18" fill="#0d1117" stroke="#30363d"/>
+<circle cx="28" cy="27" r="6" fill="#ff5f56"/><circle cx="50" cy="27" r="6" fill="#ffbd2e"/><circle cx="72" cy="27" r="6" fill="#27c93f"/>
+<text x="105" y="33" fill="#8b949e" font-family="monospace" font-size="14">kaif@github ~ /developer</text>
+<text x="38" y="83" fill="#58a6ff" font-family="monospace" font-size="18">$ whoami</text>
+<text x="38" y="112" fill="#f0f6fc" font-family="monospace" font-size="20">software engineer · full stack &amp; AI</text>
+<text x="38" y="151" fill="#58a6ff" font-family="monospace" font-size="18">$ focus</text>
+<text x="38" y="180" fill="#8b949e" font-family="monospace" font-size="20">AI × automation × useful products</text>
+<text x="38" y="219" fill="#58a6ff" font-family="monospace" font-size="18">$ status</text>
+<text x="38" y="248" fill="#3fb950" font-family="monospace" font-size="20">shipping...</text>
+<rect x="145" y="233" width="11" height="22" fill="#58a6ff">
+  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+<text x="38" y="285" fill="#484f58" font-family="monospace" font-size="14">build → test → ship → iterate</text>
+</svg>
