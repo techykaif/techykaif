@@ -200,6 +200,10 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 # Currently Building
 
+<p align="center">
+  <img src="./assets/animated/opportunity.svg" width="100%" alt="Open to software engineering opportunities" />
+</p>
+
 <div align="center">
 
 `IngRyn` &nbsp;·&nbsp; `AutoBrief AI` &nbsp;·&nbsp; `AI Developer Tools`
