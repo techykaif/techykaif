@@ -26,6 +26,10 @@ I like building software where **AI is part of the product, not just a feature a
 problem → architecture → build → AI integration → automation → ship → iterate
 ```
 
+<p align="center">
+  <img src="./assets/animated/terminal.svg" width="900" alt="Animated developer terminal" />
+</p>
+
 ---
 
 ## What I Build
@@ -143,6 +147,10 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 ---
 
 # How I Think About Engineering
+
+<p align="center">
+  <img src="./assets/animated/pipeline.svg" width="1000" alt="Animated software engineering pipeline" />
+</p>
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
