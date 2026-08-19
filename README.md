@@ -132,7 +132,7 @@ The engineering focus includes **RSS ingestion, resilient AI workflows, API key 
 ## Portfolio
 
 <p align="center">
-  <img src="./assets/projects/portfolio.webp" width="820" alt="Portfolio project preview" />
+  <img src="./assets/projects/portfolio.png" width="820" alt="Portfolio project preview" />
 </p>
 
 A personal engineering portfolio designed around projects, capabilities, and a product-style presentation.
