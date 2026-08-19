@@ -114,25 +114,8 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 # How I Think About Engineering
 
 <p align="center">
-  <img src="./assets/animated/pipeline.svg" width="1000" alt="Animated software engineering pipeline" />
+  <img src="./assets/animated/pipeline.svg" width="1000" alt="Animated macOS-style engineering terminal" />
 </p>
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  01  Start with the problem, not the technology.       │
-│                                                         │
-│  02  Keep architecture simple until complexity         │
-│      is actually justified.                             │
-│                                                         │
-│  03  Use AI where it creates real product value.       │
-│                                                         │
-│  04  Automate repetitive work instead of repeating it. │
-│                                                         │
-│  05  Build for production, not just the demo.           │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
 
 ---
 
