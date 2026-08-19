@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ The short version
+## The short version
 
 > **I build AI-powered products that solve real problems — from idea to production.**
 
@@ -29,20 +29,20 @@ problem → architecture → build → AI integration → automation → ship �
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Systems
+### AI Systems
 
 LLM integrations, AI inference pipelines, OCR + AI workflows, prompt engineering, and practical AI automation.
 
 </td>
 <td width="50%">
 
-### ⚙️ Full-Stack Products
+### Full-Stack Products
 
 Modern web applications, APIs, authentication, data flows, caching, SEO, and production-ready frontend architecture.
 
@@ -51,14 +51,14 @@ Modern web applications, APIs, authentication, data flows, caching, SEO, and pro
 <tr>
 <td width="50%">
 
-### 📱 Mobile Experiences
+### Mobile Experiences
 
 React Native applications with camera workflows, OCR, authentication, cloud storage, and AI-powered analysis.
 
 </td>
 <td width="50%">
 
-### 🔁 Automation
+### Automation
 
 Systems that collect information, process it, make decisions, and deliver results with minimal manual work.
 
@@ -68,12 +68,12 @@ Systems that collect information, process it, make decisions, and deliver result
 
 ---
 
-# 🚀 Featured Builds
+# Featured Builds
 
-## 🥗 IngRyn
+## IngRyn
 
 <p align="center">
-  <img src="./assets/projects/ingryn.png" width="720" alt="IngRyn project preview" />
+  <img src="./assets/projects/ingryn.png" width="360" alt="IngRyn mobile application preview" />
 </p>
 
 ### AI-powered ingredient intelligence for packaged food
@@ -90,7 +90,7 @@ IngRyn combines **Google ML Kit OCR** with the **Gemini API** to extract and ana
 
 ---
 
-## 📰 AutoBrief AI
+## AutoBrief AI
 
 <p align="center">
   <img src="./assets/projects/autobrief.png" width="820" alt="AutoBrief AI project preview" />
@@ -129,10 +129,10 @@ The engineering focus includes **RSS ingestion, resilient AI workflows, API key 
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <p align="center">
-  <img src="./assets/projects/portfolio.png" width="820" alt="Portfolio project preview" />
+  <img src="./assets/projects/portfolio.webp" width="820" alt="Portfolio project preview" />
 </p>
 
 A personal engineering portfolio designed around projects, capabilities, and a product-style presentation.
@@ -143,7 +143,7 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 ---
 
-# 🧩 How I Think About Engineering
+# How I Think About Engineering
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
@@ -164,7 +164,7 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 ---
 
-# 🛠️ Engineering Stack
+# Engineering Stack
 
 <table>
 <tr><td><b>Languages</b></td><td>JavaScript · Python · HTML5 · CSS3 · C</td></tr>
@@ -177,7 +177,7 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 ---
 
-# 🏆 Beyond the Code
+# Beyond the Code
 
 - **Club Captain — Web Development Club (2023–2024)** — mentored students in JavaScript, React, Git, and frontend development.
 - **1st Place — Machine Learning with Python UI Integration Project.**
@@ -185,10 +185,10 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=false&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 <br />
 <img src="https://streak-stats.demolab.com?user=techykaif&theme=transparent&hide_border=true" alt="GitHub streak" />
@@ -200,11 +200,15 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techykaif&bg_color=00000000&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 
+<br />
+
+<img src="https://raw.githubusercontent.com/techykaif/techykaif/gh-pages/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation" />
+
 </div>
 
 ---
 
-# 🔭 Currently Building
+# Currently Building
 
 <div align="center">
 
