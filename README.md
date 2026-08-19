@@ -54,6 +54,10 @@ problem → architecture → build → AI integration → automation → ship �
 
 IngRyn combines **Google ML Kit OCR** with the **Gemini API** to extract and analyze ingredient information. Supabase handles authentication, storage, and persistent scan history.
 
+<p align="center">
+  <img src="./assets/animated/ingryn-flow.svg" width="900" alt="Animated IngRyn processing flow" />
+</p>
+
 **Built with**  `React Native` `Expo` `Supabase` `Google ML Kit` `Gemini API`
 
 <p align="center">
@@ -70,27 +74,13 @@ IngRyn combines **Google ML Kit OCR** with the **Gemini API** to extract and ana
 
 ### An automated pipeline from raw news to published AI content
 
-```text
-RSS Sources
-     ↓
-Node.js Ingestion
-     ↓
-Normalize & Process
-     ↓
-LLM Generation
-     ↓
-Retry / Failover
-     ↓
-SEO Optimization
-     ↓
-GitHub Actions
-     ↓
-Published
-```
-
 AutoBrief automatically collects news, processes content with LLMs, and produces SEO-ready articles through an automated publishing workflow.
 
 The engineering focus includes **RSS ingestion, resilient AI workflows, API key rotation, retries, failover, server-side rendering, caching, SEO, and GitHub Actions automation.**
+
+<p align="center">
+  <img src="./assets/animated/autobrief-flow.svg" width="900" alt="Animated AutoBrief publishing pipeline" />
+</p>
 
 **Built with**  `Next.js` `Node.js` `Grok API` `GitHub Actions` `RSS` `SEO`
 
@@ -107,7 +97,13 @@ The engineering focus includes **RSS ingestion, resilient AI workflows, API key 
   <img src="./assets/projects/portfolio.png" width="820" alt="Portfolio project preview" />
 </p>
 
+### A product-style engineering portfolio
+
 A personal engineering portfolio designed around projects, capabilities, and a product-style presentation.
+
+<p align="center">
+  <img src="./assets/animated/portfolio-flow.svg" width="900" alt="Animated portfolio focus flow" />
+</p>
 
 <p align="center">
   <a href="https://techykaif.vercel.app"><b>→ Visit Portfolio</b></a>
