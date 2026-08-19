@@ -188,7 +188,7 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 # GitHub Activity
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=false&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=techykaif&show_icons=false&hide_border=true&theme=transparent" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techykaif&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 <br />
 <img src="https://streak-stats.demolab.com?user=techykaif&theme=transparent&hide_border=true" alt="GitHub streak" />
