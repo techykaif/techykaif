@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+<title id="title">Open to Opportunities</title><desc id="desc">Open to software engineering opportunities across full-stack, AI and automation.</desc>
+<rect x="1" y="1" width="1198" height="148" rx="18" fill="#0d1117" stroke="#30363d"/>
+<circle cx="52" cy="48" r="7" fill="#3fb950"><animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="78" y="55" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="1">OPEN TO OPPORTUNITIES</text>
+<text x="52" y="94" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="16">Software Engineering · Full Stack · AI · Automation</text>
+<path d="M52 119H1148" stroke="#21262d"/>
+<text x="1148" y="101" text-anchor="end" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">READY TO BUILD</text>
+<circle cx="1120" cy="119" r="3" fill="#58a6ff"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+</svg>
