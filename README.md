@@ -22,10 +22,6 @@
 
 I like building software where **AI is part of the product, not just a feature added at the end.** My work spans full-stack applications, mobile experiences, OCR pipelines, LLM integrations, REST APIs, automated publishing systems, and production deployment.
 
-```text
-problem → architecture → build → AI integration → automation → ship → iterate
-```
-
 <p align="center">
   <img src="./assets/animated/terminal.svg" width="900" alt="Animated developer terminal" />
 </p>
@@ -58,7 +54,9 @@ IngRyn combines **Google ML Kit OCR** with the **Gemini API** to extract and ana
   <img src="./assets/animated/ingryn-flow.svg" width="900" alt="Animated IngRyn processing flow" />
 </p>
 
-**Built with**  `React Native` `Expo` `Supabase` `Google ML Kit` `Gemini API`
+**Engineering highlights:** OCR pipeline · LLM inference · Supabase persistence · scan history
+
+**Built with** `React Native` `Expo` `Supabase` `Google ML Kit` `Gemini API`
 
 <p align="center">
   <a href="https://github.com/techykaif/ingryn"><b>→ View Repository</b></a>
@@ -82,7 +80,9 @@ The engineering focus includes **RSS ingestion, resilient AI workflows, API key 
   <img src="./assets/animated/autobrief-flow.svg" width="900" alt="Animated AutoBrief publishing pipeline" />
 </p>
 
-**Built with**  `Next.js` `Node.js` `Grok API` `GitHub Actions` `RSS` `SEO`
+**Engineering highlights:** RSS ingestion · LLM generation · retry/failover · automated publishing
+
+**Built with** `Next.js` `Node.js` `Grok API` `GitHub Actions` `RSS` `SEO`
 
 <p align="center">
   <a href="https://github.com/techykaif/AutoBrief"><b>→ Repository</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
@@ -104,6 +104,8 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 <p align="center">
   <img src="./assets/animated/portfolio-flow.svg" width="900" alt="Animated portfolio focus flow" />
 </p>
+
+**Engineering highlights:** responsive UI · project storytelling · visual systems · production deployment
 
 <p align="center">
   <a href="https://techykaif.vercel.app"><b>→ Visit Portfolio</b></a>
@@ -180,19 +182,11 @@ A personal engineering portfolio designed around projects, capabilities, and a p
   <img src="./assets/animated/beyond-code.svg" width="100%" alt="Mentorship, achievement and certifications" />
 </p>
 
-- **Club Captain — Web Development Club (2023–2024)** — mentored students in JavaScript, React, Git, and frontend development.
-- **1st Place — Machine Learning with Python UI Integration Project.**
-- Certifications in **IBM Cybersecurity Basics**, **HackerRank Python (Basic)**, and **Netcamp Android Development**.
-
 ---
 
 # GitHub Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=techykaif&theme=transparent&hide_border=true" alt="GitHub streak" />
-
-<br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=techykaif&bg_color=00000000&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 
@@ -213,6 +207,10 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 <br /><br />
 
 **AI × Automation × Product Engineering**
+
+<br />
+
+<sub>Focused on turning practical problems into production-ready software.</sub>
 
 </div>
 
