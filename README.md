@@ -78,7 +78,7 @@ The engineering focus includes **RSS ingestion, resilient AI workflows, API key 
 
 **Engineering highlights:** RSS ingestion · LLM generation · retry/failover · automated publishing
 
-**Built with** `Next.js` `Node.js` `Grok API` `GitHub Actions` `RSS` `SEO`
+**Built with** `Next.js` `Node.js` `Groq API` `GitHub Actions` `RSS` `SEO`
 
 <p align="center">
   <a href="https://github.com/techykaif/AutoBrief"><b>→ Repository</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
