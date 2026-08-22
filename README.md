@@ -26,10 +26,6 @@ I like building software where **AI is part of the product, not just a feature a
   <img src="./assets/animated/terminal.svg" width="900" alt="Animated developer terminal" />
 </p>
 
----
-
-## What I Build
-
 <p align="center">
   <img src="./assets/animated/capabilities.svg" width="100%" alt="Animated overview of AI systems, full-stack products, mobile experiences, and automation" />
 </p>
