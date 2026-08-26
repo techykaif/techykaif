@@ -185,7 +185,7 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 <div align="center">
 
 <a href="https://github.com/techykaif">
-  <img src="https://github-stats-extended.vercel.app/api?username=techykaif&theme=github_dark&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=prs_authored,prs_merged,issues_authored&hide_rank=true&hide_border=true&cache_bust=20260821" width="92%" alt="GitHub statistics including commits, authored and merged pull requests, issues and contributions" />
+  <img src="https://github-stats-extended.vercel.app/api?username=techykaif&theme=github_dark&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=prs_authored,prs_merged,issues_authored&hide_rank=true&hide_border=true&cache_bust=20260826" width="92%" alt="GitHub statistics including commits, authored and merged pull requests, issues and contributions" />
 </a>
 
 <br />
@@ -194,11 +194,9 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techykaif&bg_color=00000000&color=58A6FF&line=58A6FF&point=F0F6FC&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
-
-<br />
-
-<img src="https://raw.githubusercontent.com/techykaif/techykaif/gh-pages/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake animation" />
+<a href="https://github.com/techykaif">
+  <img src="https://ghchart.xqsit94.in/dark:default/techykaif" width="95%" alt="GitHub contribution activity calendar for techykaif" />
+</a>
 
 </div>
 
