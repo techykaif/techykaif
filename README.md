@@ -185,12 +185,12 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 <div align="center">
 
 <a href="https://github.com/techykaif">
-  <img src="https://github-stats-extended.vercel.app/api?username=techykaif&theme=github_dark&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=prs_authored,prs_merged,issues_authored,prs_merged_percentage&hide_rank=false&hide_border=true&cache_seconds=7200&cache_bust=20260903" width="92%" alt="GitHub statistics including commits, authored and merged pull requests, issues, merge percentage and rank" />
+  <img src="./profile/github-stats.svg" width="92%" alt="GitHub statistics including commits, authored and merged pull requests, issues, merge percentage and rank" />
 </a>
 
 <br />
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=techykaif&layout=compact&theme=github_dark&hide_border=true" width="70%" alt="Most used programming languages" />
+<img src="./profile/top-langs.svg" width="70%" alt="Most used programming languages" />
 
 <br />
 
