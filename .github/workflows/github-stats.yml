@@ -1,0 +1,46 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/github-stats.yml"
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout profile
+        uses: actions/checkout@v6
+
+      - name: Generate GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=techykaif&theme=github_dark&show_icons=true&include_all_commits=true&hide=stars,prs,issues&show=prs_authored,prs_merged,issues_authored,prs_merged_percentage&hide_rank=false&hide_border=true
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=techykaif&layout=compact&theme=github_dark&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/github-stats.svg profile/top-langs.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: refresh GitHub profile stats"
+          git push
