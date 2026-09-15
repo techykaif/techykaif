@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohd Kaif Ansari&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Commits  : 4660, Total PRs Merged: 207, Merged PRs Percentage: 88.09, PRs Created: 235, Issues Created: 38, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Commits  : 4663, Total PRs Merged: 209, Merged PRs Percentage: 88.19, PRs Created: 237, Issues Created: 40, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 137.04078481315335;
+        stroke-dashoffset: 136.5773070659277;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >207</text>
+      >209</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >88.09 %</text>
+      >88.19 %</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)"><a href="https://github.com/search?q=author%3Atechykaif&amp;type=pullrequests">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >235</text></a>
+      >237</text></a>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)"><a href="https://github.com/search?q=author%3Atechykaif&amp;type=issues">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues_authored"
-      >38</text></a>
+      >40</text></a>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
