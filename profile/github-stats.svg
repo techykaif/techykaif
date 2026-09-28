@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohd Kaif Ansari&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Commits  : 4975, Total PRs Merged: 228, Merged PRs Percentage: 89.06, PRs Created: 256, Issues Created: 44, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Commits  : 4996, Total PRs Merged: 237, Merged PRs Percentage: 89.43, PRs Created: 265, Issues Created: 44, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 134.98603128814975;
+        stroke-dashoffset: 134.7548543946175;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >228</text>
+      >237</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >89.06 %</text>
+      >89.43 %</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)"><a href="https://github.com/search?q=author%3Atechykaif&amp;type=pullrequests">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_authored"
-      >256</text></a>
+      >265</text></a>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)"><a href="https://github.com/search?q=author%3Atechykaif&amp;type=issues">
