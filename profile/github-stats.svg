@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mohd Kaif Ansari&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Commits  : 5448, Total PRs Merged: 373, Merged PRs Percentage: 89.02, PRs Created: 419, Issues Created: 44, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Commits  : 5449, Total PRs Merged: 373, Merged PRs Percentage: 89.02, PRs Created: 419, Issues Created: 44, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 132.99554339254595;
+        stroke-dashoffset: 132.99487849895354;
       }
     }
   
