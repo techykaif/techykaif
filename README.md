@@ -180,6 +180,20 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 
 ---
 
+# Open-source Contributions
+
+### StudyMap — [StudentSuite/StudyMap](https://github.com/StudentSuite/StudyMap)
+
+Contributed **12 merged pull requests (#172–#183)** improving map and share-state validation, coordinate bounds, Supabase authentication error handling, stale place IDs, clipboard and geolocation feedback, offline navigation, map attribution, accessibility, and SEO metadata.
+
+[PR #172](https://github.com/StudentSuite/StudyMap/pull/172) · [PR #183](https://github.com/StudentSuite/StudyMap/pull/183)
+
+### Claude Router — External contribution
+
+Contributed upstream PR #15, which the maintainer confirmed was merged after review. The changes covered JSONC-aware VS Code settings reads, refusing unsafe writes before backup creation, and shell regression tests. **The original upstream repository currently returns 404**, so the historical PR is not independently retrievable today.
+
+---
+
 # GitHub Activity
 
 <div align="center">
