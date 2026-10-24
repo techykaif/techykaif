@@ -8,8 +8,8 @@
 
 <br />
 
-<a href="https://techykaif.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/mohd-kaif-ansari-dev"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.techykaif.site"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mohd-kaif-ansari-dev/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mka10171@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -82,7 +82,7 @@ The engineering focus includes **RSS ingestion, resilient AI workflows, API key 
 
 <p align="center">
   <a href="https://github.com/techykaif/AutoBrief"><b>→ Repository</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://autobrief-ai.vercel.app"><b>→ Live Application</b></a>
+  <a href="https://autobrief.blog"><b>→ Live Application</b></a>
 </p>
 
 ---
@@ -104,7 +104,7 @@ A personal engineering portfolio designed around projects, capabilities, and a p
 **Engineering highlights:** responsive UI · project storytelling · visual systems · production deployment
 
 <p align="center">
-  <a href="https://techykaif.vercel.app"><b>→ Visit Portfolio</b></a>
+  <a href="https://www.techykaif.site"><b>→ Visit Portfolio</b></a>
 </p>
 
 ---
@@ -242,7 +242,7 @@ Contributed upstream PR #15, which the maintainer confirmed was merged after rev
 
 ### Let's build something useful.
 
-<a href="https://techykaif.vercel.app"><b>Portfolio</b></a> · <a href="https://linkedin.com/in/mohd-kaif-ansari-dev"><b>LinkedIn</b></a> · <a href="mailto:mka10171@gmail.com"><b>Email</b></a>
+<a href="https://www.techykaif.site"><b>Portfolio</b></a> · <a href="https://www.linkedin.com/in/mohd-kaif-ansari-dev/"><b>LinkedIn</b></a> · <a href="mailto:mka10171@gmail.com"><b>Email</b></a>
 
 <br /><br />
 
