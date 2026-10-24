@@ -190,7 +190,7 @@ Contributed **12 merged pull requests (#172–#183)** improving map and share-st
 
 ### Claude Router — External contribution
 
-Contributed **merged upstream PR #15**. The maintainer confirmed the merge after review on 2026-08-21. The change added JSONC-aware VS Code settings reads while preserving comments, rejected invalid settings before writes, and added shell regression tests. The original repository was later removed by its author; that does not change the completed merge status. I do not claim a replacement repository URL.
+Contributed **merged upstream PR #15**. The maintainer confirmed the merge after review on 2026-08-21. The change added JSONC-aware VS Code settings reads while preserving comments, rejected invalid settings before writes, and added shell regression tests. The original repository was later removed by its author; that does not change the completed merge status. My [preserved fork](https://github.com/techykaif/claude-router) retains commit evidence: [JSONC settings fix](https://github.com/techykaif/claude-router/commit/15b4a70edcdc7263526a10c5514be5b32fa39496), [safe-write guard](https://github.com/techykaif/claude-router/commit/f849b66d9bbed5860333b955de09a19483e068f5), and [regression test](https://github.com/techykaif/claude-router/commit/1417c677c34f304724540a210bbb02d0694f5fb4). The fork's temporary PRs #1 and #2 were closed unmerged and are not the upstream PR #15.
 
 ### MergeFi Frontend — Submitted contribution (not merged)
 
