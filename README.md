@@ -190,7 +190,11 @@ Contributed **12 merged pull requests (#172–#183)** improving map and share-st
 
 ### Claude Router — External contribution
 
-Contributed upstream PR #15, which the maintainer confirmed was merged after review. The changes covered JSONC-aware VS Code settings reads, refusing unsafe writes before backup creation, and shell regression tests. **The original upstream repository currently returns 404**, so the historical PR is not independently retrievable today.
+Contributed **merged upstream PR #15**. The maintainer confirmed the merge after review on 2026-08-21. The change added JSONC-aware VS Code settings reads while preserving comments, rejected invalid settings before writes, and added shell regression tests. The original repository was later removed by its author; that does not change the completed merge status. I do not claim a replacement repository URL.
+
+### MergeFi Frontend — Submitted contribution (not merged)
+
+Submitted [PR #294](https://github.com/MergeFi/frontend/pull/294), adding a loading fallback to the authentication callback's React Suspense boundary. As checked on 2026-10-25, the PR remains open and unmerged; GitHub shows no submitted reviews.
 
 ---
 
